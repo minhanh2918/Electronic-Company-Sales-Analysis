@@ -1,6 +1,6 @@
 # Electronic-Company-Sales-Analysis
 <img width="2425" height="1354" alt="image" src="https://github.com/user-attachments/assets/5e439f18-972f-4481-805a-10357331bc68" />
-
+Dashboard view: https://app.powerbi.com/view?r=eyJrIjoiNDM4OTBjMWUtODc4ZC00OTNkLWI5MjktY2UyMjU4ZDUxYWNmIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D
 # Project Overview
 
 This project analyses the sales and profit performance of an electronics company between September 2023 – September 2024. The company sells products such as Smartphones, Laptops, Tablets, Smartwatches, and Headphones. The goal is to track overall business health, identify top-performing products, evaluate customer behaviour, and provide actionable insights for growth.
